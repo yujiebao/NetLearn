@@ -137,5 +137,4 @@ BinaryFormatter 2进制格式化类
 
 我们需要自己来处理将类对象数据序列化为字节数组
 
-[序列化的基类]: ./Code/BaseData.cs	"sss"
-
+[序列化的基类](./Code/BaseData.cs)
